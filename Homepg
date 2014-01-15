@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>BENEFITS BUDDY HOME PAGE</title>
+</head>
+
+<body>
+
+<img src="heading.jpg" alt="heading" width="1350" height="160" border="1" ></br>
+
+<p  style="padding: 0px 400px 0px;" >
+
+<img src="getIns.jpg" alt="heading" width="210" height="210" border="0"><img src="freeBenefits.jpg" alt="heading" width="210" height="210" border="0" ></br>
+<a href = "CheckhealthFree.html"><img src="checkFree.jpg" alt="heading" width="210" height="210" border="0"></a><img src="helpPerson.jpg" alt="heading" width="210" height="210" border="0" > 
+<img src="howtouse.jpg" alt="heading" width="120" height="90" border="0" style="padding-left: 800px;" >
+
+</p>
+
+</body>
+</html>
